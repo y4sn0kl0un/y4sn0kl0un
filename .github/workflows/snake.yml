@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # каждый день
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,12 +11,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/generate-readme-md-snake@v1
+      - uses: Platane/snk@v3
         with:
           github_user_name: y4sn0kl0un
-          output: dist/snake.svg
-          color_snake: "#3B82F6"
-          color_dots: "#E5E7EB,#93C5FD,#60A5FA,#3B82F6,#1E40AF"
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
 
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
