@@ -30,3 +30,7 @@ Hello there👋! I'm Stanislav Pak! This is my GitHub profile.<br><br>
 [![](https://visitcount.itsvg.in/api?id=y4sn0kl0un&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center">
+  <img src="dist/snake-dark.svg" />
+</p>
