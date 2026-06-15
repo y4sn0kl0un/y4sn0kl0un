@@ -3,11 +3,11 @@
     <td valign="top">
 
 ## 💫 About Me:
-Hello there👋! I'm Stanislav Pak! This is my GitHub profile.<br><br>
+Sup bitches .<br><br>
 🔭 I’m currently trying to become a DevOps engineer<br>
 🤝 I’m looking for help with Kubernetes<br>
 🌱 I’m currently learning Linux<br>
-⚡ Fun fact: my favorite anime is Naruto🍥
+⚡ Fun fact: dynyass is gay
 
    </td>
     <td valign="top" align="right">
